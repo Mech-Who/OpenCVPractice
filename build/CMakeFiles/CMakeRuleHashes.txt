@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+51c7aa246f640e2649402bde375fd737 ../OpencvPractice_zh_CN.ts
+a63e952f69de48c21903547e4c41b24a CMakeFiles/OpencvPractice_autogen

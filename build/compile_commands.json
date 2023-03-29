@@ -1,0 +1,17 @@
+[
+{
+  "directory": "F:/BaiduSyncdisk/project/OpencvPractice/build",
+  "command": "F:\\IDEs\\env\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/OpencvPractice.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpencvPractice.dir\\OpencvPractice_autogen\\mocs_compilation.cpp.obj -c F:\\BaiduSyncdisk\\project\\OpencvPractice\\build\\OpencvPractice_autogen\\mocs_compilation.cpp",
+  "file": "F:/BaiduSyncdisk/project/OpencvPractice/build/OpencvPractice_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "F:/BaiduSyncdisk/project/OpencvPractice/build",
+  "command": "F:\\IDEs\\env\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/OpencvPractice.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpencvPractice.dir\\main.cpp.obj -c F:\\BaiduSyncdisk\\project\\OpencvPractice\\main.cpp",
+  "file": "F:/BaiduSyncdisk/project/OpencvPractice/main.cpp"
+},
+{
+  "directory": "F:/BaiduSyncdisk/project/OpencvPractice/build",
+  "command": "F:\\IDEs\\env\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/OpencvPractice.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpencvPractice.dir\\mainwindow.cpp.obj -c F:\\BaiduSyncdisk\\project\\OpencvPractice\\mainwindow.cpp",
+  "file": "F:/BaiduSyncdisk/project/OpencvPractice/mainwindow.cpp"
+}
+]

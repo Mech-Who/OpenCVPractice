@@ -1,0 +1,13 @@
+# ninja log v5
+19	2198	7012447050649005	F:/BaiduSyncdisk/project/OpencvPractice/debug/CMakeFiles/cmake.verify_globs	f20990320007ee30
+1999	5216	7012447097650437	build.ninja	d5e8ed2179f04caf
+1	2615	7012424799142812	OpencvPractice_autogen/timestamp	552d37f838663115
+1	2615	7012424799142812	OpencvPractice_autogen/mocs_compilation.cpp	552d37f838663115
+1	2615	7012424799142812	F:/BaiduSyncdisk/project/OpencvPractice/debug/OpencvPractice_autogen/timestamp	552d37f838663115
+2616	5292	7012424828873274	CMakeFiles/OpencvPractice.dir/OpencvPractice_autogen/mocs_compilation.cpp.obj	22ee1a75fdeedfe6
+1	2615	7012424799142812	F:/BaiduSyncdisk/project/OpencvPractice/debug/OpencvPractice_autogen/mocs_compilation.cpp	552d37f838663115
+6382	6675	7012424842666837	OpencvPractice.exe	c9503c417c40cfe8
+2620	5377	7012424829740947	CMakeFiles/OpencvPractice.dir/main.cpp.obj	56bc9db641764b16
+2618	6381	7012424839774399	CMakeFiles/OpencvPractice.dir/mainwindow.cpp.obj	5a210b3169287163
+2199	5674	7012447097650437	build.ninja	d5e8ed2179f04caf
+19	2193	0	F:/BaiduSyncdisk/project/OpencvPractice/debug/CMakeFiles/cmake.verify_globs	f20990320007ee30
