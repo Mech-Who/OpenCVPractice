@@ -1,8 +1,0 @@
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/install/strip.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/OpencvPractice.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/install/local.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/install.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/edit_cache.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/rebuild_cache.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/list_install_components.dir
-F:/BaiduSyncdisk/project/OpencvPractice/build/CMakeFiles/OpencvPractice_autogen.dir

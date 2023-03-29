@@ -1,3 +1,0 @@
-E:\environment\CMake\bin\cmake.exe -E rm -f CMakeFiles\OpencvPractice.dir/objects.a
-F:\IDEs\env\Qt6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\OpencvPractice.dir/objects.a @CMakeFiles\OpencvPractice.dir\objects1.rsp
-F:\IDEs\env\Qt6\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\OpencvPractice.dir/objects.a -Wl,--no-whole-archive -o OpencvPractice.exe -Wl,--out-implib,libOpencvPractice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OpencvPractice.dir\linklibs.rsp
