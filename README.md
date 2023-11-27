@@ -2,9 +2,9 @@
 
 A practice for QT+OPENCV
 
-## OpenCVPractice 说明
+## 说明
 
-### 外部工具使
+### 外部工具使用
 
 > 记得要进入到OpenCVPractice目录再执行以下命令，否则会失败哦！
 
